@@ -1,2 +1,4 @@
 *.pgm
 *.ppm
+artifacts/*.png
+artifacts/*.txt
